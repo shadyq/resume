@@ -1,7 +1,5 @@
 # <a name="up" />QA Engineer Portfolio
 
-# QA Engineer Portfolio
-
 This portfolio contains projects completed during the [QA Engineer](https://praktikum.yandex.ru/qa-engineer) training program at Yandex.Practicum.
 
 ## Test Design
